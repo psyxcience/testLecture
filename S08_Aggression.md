@@ -2,35 +2,36 @@
 
 * based on Myers et al. Social Psychology (Chapter 8)
 
-# Different Definitions
+## Different Definitions
 * Behavior that results in personal injury or destruction of property (Bandura, 1973)
 * Behavior intended to harm another of the same species (Scherer et al, 1975)
 * Behavior directed towards the goal of harming or injuring another living being who is motivated to avoid such treatment (Baron, 1977)
 
-* The intentional infliction of some form of harm on others (Baron & Byrne, 2000)
+* **The intentional infliction of some form of harm on others (Baron & Byrne, 2000)**
 
-# Two Kinds (+1)
-* Reactive aggression
-** Aggression in response to being provoked.
+## Two Kinds (+1)
+**Reactive aggression**
+* Aggression in response to being provoked.
 
-* Instrumental aggression
-** Aggression in order to obtain a desired reward.
+**Instrumental aggression**
+* Aggression in order to obtain a desired reward.
 
-* (Aggression) Displacement
-** Excitation-transfer model
+**(Aggression) Displacement**
+* Excitation-transfer model
 
-# Non-social Influences
+## Non-social Influences
 * Genetics
 * mice breeding
 * monoamine oxidase-A
 
-Biochemical Influences
-Alcohol (disinhibition)
-Testosterone
-Serotonin
+* Biochemical Influences
+* Alcohol (disinhibition)
+* Testosterone
+* Serotonin
 
-Neural Influences (”self-control“)
-(Social) Roots of Aggression
+* Neural Influences (”self-control“)
+
+## (Social) Roots of Aggression
 Frustration
 Learning
 Frustration-Aggression Hypothesis
