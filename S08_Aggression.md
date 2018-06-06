@@ -20,43 +20,47 @@
 * Excitation-transfer model
 
 ## Non-social Influences
-* Genetics
+**Genetics**
 * mice breeding
 * monoamine oxidase-A
 
-* Biochemical Influences
+**Biochemical Influences**
 * Alcohol (disinhibition)
 * Testosterone
 * Serotonin
 
-* Neural Influences (”self-control“)
+**Neural Influences (”self-control“)**
 
 ## (Social) Roots of Aggression
-Frustration
-Learning
-Frustration-Aggression Hypothesis
-(Dollard et al., 1939)
-Frustration
+* Frustration
+* Learning
+
+
+## Frustration-Aggression Hypothesis
+*(Dollard et al., 1939)*
+
+**Frustration**
 Feeling resulting from perceiving slow progress towards a goal
 
-(Early) Hypothesis:
+**(Early) Hypothesis**
 Frustration always leads to some form of aggression
 
-Conclusion:
-Yes, frustration often does increase the likelihood of showing aggression
-(prepare for aggression)
-No, of course not always
+**Conclusion**
+* Yes, frustration often does increase the likelihood of showing aggression (prepare for aggression)
+* No, of course not always
 
-Frustration leading to aggression
-Experimental example (Barker et al., 1941)
-Room of attractive toys presented
-Manipulation
-Playing allowed versus playing prevented
-Later playing of the prevention group showed more aggressive behaviors towards the toys compared to control group.
+## Frustration leading to aggression
+**Experimental example (Barker et al., 1941)**
+* Room of attractive toys presented
+* Manipulation
+  Playing allowed versus playing prevented
+* Later playing of the prevention group showed more aggressive behaviors towards the toys compared to control group.
 
-Field example (Brown et al., 2001)
-British ferry travelers: Higher aggressive attitudes towards French people on days when French fishing boats blockade the ferry port
-Frustration-Aggression Revised
+**Field example (Brown et al., 2001)**
+* British ferry travelers: Higher aggressive attitudes towards French people on days when French fishing boats blockade the ferry port
+
+
+## Frustration-Aggression Revised
 Aggression following frustration is more likely if the disruption to a goal is
 Intentional (& unjustified)
 (e.g., disruption of group's problem solving task by someone not paying attention)
