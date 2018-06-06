@@ -61,15 +61,16 @@ Frustration always leads to some form of aggression
 
 
 ## Frustration-Aggression Revised
-Aggression following frustration is more likely if the disruption to a goal is
+* Aggression following frustration is more likely if the disruption to a goal is
 Intentional (& unjustified)
 (e.g., disruption of group's problem solving task by someone not paying attention)
 
-and less likely if it is unintentional (and/or justified)
+* and less likely if it is unintentional (and/or justified)
 (e.g., disruption of group's problem solving task by someone who's hearing aid is malfunctioning)
 
-(Burnstein & Worchel, 1962)
-Frustration from (relative) Deprivation
+*(Burnstein & Worchel, 1962)*
+
+## Frustration from (relative) Deprivation
 Relative deprivation:
 The perception that one is less well off than others with whom one compares oneself
 A general state of being not able to pursue one's goals
