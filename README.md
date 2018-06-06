@@ -1,10 +1,3 @@
-# Topic/Introduction
+# General Information
 
-This is a test for a social psychology lecture.
-* these are some bullet points
-* and more
-* and one more point.
-
-## Subheading 1
-
-![Alt text](test.png?raw=true "Test Image")
+This is a test to prepare/develop a social psychology lecture on Github.
